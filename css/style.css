@@ -48,6 +48,9 @@ body{
 .header{
 	background:black;
 }
+div.header-bottom:hover{
+background: white;
+}
 /*.header-top{
 	padding:1% 0;*/
 }
