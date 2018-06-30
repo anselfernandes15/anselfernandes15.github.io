@@ -48,7 +48,7 @@ body{
 .header{
 	background:black;
 }
-div.header-bottom:hover{
+.header-bottom:hover{
 background: white;
 }
 /*.header-top{
